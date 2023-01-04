@@ -1,4 +1,4 @@
-# Tutorial of Python
+# Python Tutorial
 This tutorial start with the repo **https://github.com/mouredev/Hello-Python** \
 We will cover basic and intermediate things and later on how to make a REST API with FastAPI, connect to a MongoDB database and OAuth2 authorizations...
 ## More links with information:
