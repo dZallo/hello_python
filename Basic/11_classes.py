@@ -40,4 +40,3 @@ print(my_other_person.full_name)
 my_other_person.full_name = 666
 print(my_other_person.full_name)
 
-# https://youtu.be/Kp4Mvapo5kc?t=29425
